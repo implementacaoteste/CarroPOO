@@ -53,6 +53,7 @@ namespace POO
             Console.WriteLine("Estourado: " + Estourado);
             Console.WriteLine("Furado: " + Furado);
             Console.WriteLine("Estepe: " + Estepe);
+            //Fim do método
         }
         public void Acelerar(int _impulso)
         {
